@@ -24,8 +24,7 @@ The QR Code component was not too difficult, when I knew what exactly I wanted t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Netlify](https://tobifunmi-qr-component.netlify.app/)
 
 ## My process
 
